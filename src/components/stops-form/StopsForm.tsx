@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import LabelInput from '../label-input/LabelInput';
-import TransportMethod from '../../transport-method/TransportMethod';
+import TransportMethod from '../transport-method/TransportMethod';
 
 type Stop = {
   startLocation: string;
